@@ -1,36 +1,19 @@
-Appple Fall Project
+#Dhruv's coding journey
+## Project 1 : Apple Fall Game
+Created using MIT Scratch
+### Features
+- Apple falls randomly from Sky/Top
+- Score Tracking
+- Life Counts
+- Game Logic
+### Technology
+- MIT Scratch
+- Scratch 3.0
+- Github
+### Learning Objectives
+- Understand programming logic
+- Learn Varibale and Conditions
+- Understood loops and events
+- Learn Debugging
 
-About the Project
-
-This is a shooting game created using MIT Scratch.
-
-Project Details
-
-Project Name: Scratch Shooting Game
-
-Platform: MIT Scratch
-
-File Format: SB3
-
-Project Type: Game Development
-
-How to Play
-
-Open the Scratch project.
-
-Click the green flag to start the game.
-
-Follow the on-screen instructions.
-
-Enjoy playing!
-
-Project Structure
-
-game/ – Contains the Scratch game file.
-
-screenshots/ – Contains game screenshots.
-
-documentation/ – Contains project documentation.
-
-Author
-
+Created by Dhruv
